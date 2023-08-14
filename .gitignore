@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+jspm_packages/
+npm-debug.log
+.npm
+
+# dotenv
+.env
+.env.local
+.env.development.local
+.env.test.local
+
+# misc
+.vscode-test
+.webpack/
