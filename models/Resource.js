@@ -10,6 +10,10 @@ const resourceSchema = new mongoose.Schema({
     type: String, 
     required: true 
   },
+  alteranteAddress: {
+    type: String,
+    required: false
+  },
   typeOfResource: { 
     type: String, 
     required: true 
@@ -48,17 +52,13 @@ const resourceSchema = new mongoose.Schema({
   },
   longitude: {
     type: Number,
-    required: false
+    required: true
   },
   latitude: {
     type: Number,
-    required: false
+    required: true
   }
   // Add/remove fields as needed
 });
 
 module.exports = mongoose.model('Resource', resourceSchema);
-
-// const NameModel = mongoose.model('names', nameSchema);
-// const Resource = mongoose.model('resources', resourceSchema);
-// module.exports = Resource;
