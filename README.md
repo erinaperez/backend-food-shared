@@ -40,8 +40,10 @@ You will also need to install the front-end repository to fully test development
  - Improve zip code search and radius options
  - Registration for users who help run or organize resources
  - Implement a voluntary user survey to collect and present useful data
- - Use data to show which areas are most searched and  what types of foods/resources are most sought out?
- - Incorporate info for folks wanting to donate or volunteer time, i.e., community and personal gardeners with surplus food
+ - Use data to show which areas are most searched and  what types of foods/resources are most sought out
+ - Incorporate info donating or volunteering, i.e., community and personal gardeners with surplus food
  - Expand beyond Portland
 
 Input and feedback is welcome!
+
+https://github.com/erinaperez/backend-food-shared/assets/111480454/b23356cb-3729-4429-b4f7-be36a9651a45
