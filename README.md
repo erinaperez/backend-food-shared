@@ -35,14 +35,13 @@ This project uses the MERN techstack with RESTful API routes and the dependencie
 You will also need to install the front-end repository to fully test development. 
   
 ## Forthcoming and Future Enhancements... 
-     - Finish the admin admin panel to moderate user submissions![Screenshot 2023-08-16 at 8 59 23 PM](https://github.com/erinaperez/backend-food-shared/assets/111480454/40d3aa5e-d823-46dc-a73d-f2f10811569b)
-
-     - Implement filters for the directory/map
-     - Improve zip code search and radius options
-     - Registration for users who help run or organize resources
-     - Implement a voluntary user survey to collect and present useful data
-     - Use data to show which areas are most searched and  what types of foods/resources are most sought out?
-     - Incorporate info for folks wanting to donate or volunteer time, i.e., community and personal gardeners with surplus food
-     - Expand beyond Portland
+ - Finish the admin admin panel to moderate user submissions!
+ - Implement filters for the directory/map
+ - Improve zip code search and radius options
+ - Registration for users who help run or organize resources
+ - Implement a voluntary user survey to collect and present useful data
+ - Use data to show which areas are most searched and  what types of foods/resources are most sought out?
+ - Incorporate info for folks wanting to donate or volunteer time, i.e., community and personal gardeners with surplus food
+ - Expand beyond Portland
 
 Input and feedback is welcome!
