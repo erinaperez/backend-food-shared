@@ -2,12 +2,12 @@
 
 Food Shared is a web application that helps users easily find free food and other resources. It addresses the concern that although food banks and state-affiliated food assistance programs are crucial resources for millions experiencing food insecurity, these institutions present significant barriers for some individuals and families. The Food Shared directory highlights community-centered and mutual aid-driven resources with low barriers to access, including public pantries, community fridges, hot meals, and other accessible food assistance. Resources are accessible in ways that government and state-affiliated resources often are not or cannot be. 
 
-The directory is local to Portland, Oregon, but it will be expanded to include more locations in the future and it will be updated regularly. 
+The directory is local to Portland, Oregon, but it will be expanded to include more locations in the future and will be updated regularly. 
 
 ## Dependencies 
-This project uses the MERN techstack with RESTful API routes, React for frontend and Express.js for frontend.
+This project uses the MERN stack with RESTful API routes, React for frontend and Express.js for frontend.
 
-Frontend dependencies include: 
+Backend dependencies include: 
  * node.js
  * nodemon server.js
  * Axios
@@ -18,7 +18,8 @@ Frontend dependencies include:
  * Mongoose
 
 ## Installation
-1. Git clone the repository
+1. Git clone the repository:
+    -   ```git clone https://github.com/erinaperez/front-end-FS.git```
 2. Install dependencies by running `npm install`
 3. Create a MongoDB Atlas account on their site and install MongoDB Compass by running: 
     - Create a database called `Food Shared` and a collection called `resources`
@@ -35,7 +36,8 @@ Frontend dependencies include:
 8. Run the development server with:
     -   ```npm run devStart```
 
-You will need to install the frontend repository to fully test development. 
+You will need to install the frontend repository to fully test development - 
+https://github.com/erinaperez/front-end-FS
   
 ## Forthcoming and Future Enhancements... 
  - Expand beyond Portland
